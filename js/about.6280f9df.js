@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{ef46:function(e,t,n){"use strict";n.r(t);var u=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v("About Page")])},o=[],a=n("2877"),l={},i=Object(a["a"])(l,u,o,!1,null,null,null);i.options.__file="about.vue";t["default"]=i.exports}}]);
